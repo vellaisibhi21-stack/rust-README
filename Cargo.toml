@@ -1,0 +1,9 @@
+[package]
+name = "lanesync-starter"
+version = "0.1.0"
+edition = "2021"
+description = "Starter Rust project scaffolded by LaneSync."
+
+[lib]
+name = "lanesync_starter"
+path = "src/lib.rs"
