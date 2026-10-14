@@ -15,3 +15,5 @@ cargo build --release
 src/
   lib.rs    # library with inline #[cfg(test)] tests
 ```
+
+Releases are governed by LaneSync.
